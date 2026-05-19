@@ -203,20 +203,3 @@ Serial monitor at 115200 baud reports per-sensor initialisation status on startu
 
 ---
 
-## Repository Structure
-
-```
-.
-|-- MagicCube.ino    Main sketch: sensor initialisation, web server, data handler
-|-- README.md        This document
-```
-
----
-
-## Licence
-
-MIT. See source file header for full terms.
-
----
-
-*ESP32-S3 · BME688 · BNO055 · VL53L1X · TSL2561 · MagicCube v2.1*
